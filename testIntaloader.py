@@ -4,9 +4,9 @@ import instaloader
 L = instaloader.Instaloader()
 # L.interactive_login("YOUR-USER-ID")  # You can insert your IG user ID if you like, it will next ask for your password interactively
 
-SINCE = datetime(2015, 8, 10) # From this date  (YYYY, M, D)
-UNTIL = datetime(2020, 8, 10) # To this date
-hashtag = "elevatorselfie"    # Hashtag to search for
+SINCE = datetime(2014, 8, 20) # From this date  (YYYY, M, D)
+UNTIL = datetime(2020, 8, 20) # To this date
+hashtag = "mirrorselfie"    # Hashtag to search for
 num_posts = 50000             # Max number of links to be retrieved
 
 
